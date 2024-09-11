@@ -1,2 +1,1 @@
-#9-Campion
-Class number 28
+# Andrei Miguel V Primavera.
